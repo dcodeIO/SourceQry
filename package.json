@@ -1,0 +1,11 @@
+{
+	"name": "sourceqry",
+	"description": "Super lean A2S_INFO querying for SRCDS-based servers",
+	"version": "1.0.0",
+	"author": "Daniel Wirtz <dcode@dcode.io>",
+	"main": "./sourceqry.js",
+	"dependencies": {
+		"long": "~1.1.2"
+	},
+	"license": "Apache-2.0"
+}
